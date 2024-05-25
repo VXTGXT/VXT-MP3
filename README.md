@@ -5,3 +5,7 @@ If you have any questions feel free to contact me at the email "premathassharava
 ![VXT+ LOGO](https://github.com/VXTGXT/VXT-MP3/assets/170816373/8fd43254-46b0-48b1-8ec7-0006f4b9af6d)
 ![image](https://github.com/VXTGXT/VXT-MP3/assets/170816373/8b6043b1-ef98-4af3-b8a3-70b8c7173326)
 
+FYI
+- This MP3 player uses Tkinter and Pygame
+
+
